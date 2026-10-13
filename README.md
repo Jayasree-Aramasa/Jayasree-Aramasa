@@ -1,7 +1,7 @@
 
 # Hi, I'm Jayasree Aramasa 👋
 
-**QA Automation Engineer | Java | Selenium | API Testing**
+**QA Automation Engineer**
 
 I'm a QA Automation Engineer with 5+ years of experience in software testing across web, mobile, and API applications.
 
